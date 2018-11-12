@@ -18,7 +18,7 @@ For example if you were using [campoy/jsonenums](http://github.com/campoy/jsonen
 install gorunpkg on your gopath. This is the only part that needs to be gopath wide and is small enough that it should be stable.
 
 ```bash
-go get github.com/vektah/gorunpkg
+go get github.com/Morkow/gorunpkg
 ```
 
 add the dep to projects Gopkg.toml:
